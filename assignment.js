@@ -44,7 +44,7 @@ console.log(Boys);
 //slice
 let frends=["Javeria", "Fariha", "Hamsa","Nimra"]
 let selected=frends.slice(Javeria,Nimra);
-console.log(selected)
+console.log(selected);
 
 
 
